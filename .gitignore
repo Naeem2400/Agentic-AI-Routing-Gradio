@@ -3,5 +3,7 @@
 .venv
 venv/
 .ipynb_checkpoints/
+.gradio/
+.vscode/
 __pycache__/
 *.py[cod]
