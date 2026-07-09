@@ -5,8 +5,12 @@ openai
 langchain-community
 langchain-openai
 gradio
-google-generativeai
+langchain-google-genai
+langchain-google-vertexai
 langchain-groq
+langchain-mistralai
+langchain-anthropic
+langchain-xai
 langchain-ollama
 langchain-deepseek
 ipython
